@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an e-commerce app**
 
-- 🌱 I’m currently learning **Tailwind, Typescript, and Pandas**
+- 🌱 I’m currently learning **Tailwind, Materialize, Typescript, and Pandas**
 
 - 👯 I’m looking to collaborate on **apps for teachers**
 
