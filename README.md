@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert Knott</h1>
+<h1 align="center">Hi 🇯🇲, I'm Robert Knott</h1>
 <h3 align="center">A passionate react full-stack developer in Atlanta.</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/thatsknottrob)
