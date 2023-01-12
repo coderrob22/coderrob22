@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tailwind, Materialize, Typescript, and Pandas**
 
-- 👯 I’m looking to collaborate on **apps for teachers**
+- 👯 I’m looking to collaborate on ** e-commerce apps**
 
 - 📫 How to reach me **robertknottdev@gmail.com**
 
