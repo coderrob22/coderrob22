@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🇯🇲, I'm Robert Knott</h1>
-<h3 align="center">A passionate react full-stack developer in Atlanta.</h3>
+<h3 align="center">A passionate full-stack developer and ServiceNow developer in Atlanta.</h3>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/thatsknottrob)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://linkedin.com/in/robert-knott-dev)
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript, and Pandas**
 
-- 👯 I’m looking to collaborate on ** e-commerce apps**
+- 👯 I’m looking to collaborate on **full-stack, frontend, database, & ServiceNow projects**
 
 - 📫 How to reach me **robertknottdev@gmail.com**
 
